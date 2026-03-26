@@ -1,2 +1,2 @@
-# AI-Therapist-Chatbot
-Developed an AI-based chatbot for therapist-like user interaction, Implemented NLP techniques for understanding and responding to user queries. Designed conversational flow for basic emotional support .Enabled real-time interaction through a web interface.
+# CAPSTONE-Chatbot-
+This repository will be including all the files related to therapist chatbot application.
